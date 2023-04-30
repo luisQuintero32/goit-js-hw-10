@@ -8,9 +8,12 @@ para conocer y personalizar las funciones adicionales.
 1. Asegúrate de que la versión LTS de Node.js está instalada en tu equipo.
    [Descárgala e instálala](https://nodejs.org/en/) si es necesario.
 2. Clona este repositorio.
+
 3. Cambie el nombre de la carpeta con `parcel-project-template` por el nombre de tu proyecto.
+
 4. Crea un nuevo repositorio vacío en GitHub.
 5. Abre el proyecto en VSCode, ejecuta el terminal y enlaza el proyecto con el repositorio de GitHub
+
    [según las instrucciones](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
 6. Instala las dependencias del proyecto en el terminal con el comando `npm install`.
 7. Inicia el modo de desarrollo, ejecutando el comando `npm start`.
